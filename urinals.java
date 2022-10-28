@@ -7,12 +7,14 @@ public class urinals {
         countUrinals();
     }
     public static void getString(){
+
         System.out.println("Not yet implemented");
     }
     public static void openFile(){
         System.out.println("Not yet implemented");
     }
     public static void countUrinals(){
+
         System.out.println("Not yet implemented");
     }
 }
